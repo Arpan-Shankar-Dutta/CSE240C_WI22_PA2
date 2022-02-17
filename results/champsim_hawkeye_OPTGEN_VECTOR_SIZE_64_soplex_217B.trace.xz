@@ -1,0 +1,26 @@
+
+*** ChampSim Multicore Out-of-Order Simulator ***
+
+Warmup Instructions: 10000000
+Simulation Instructions: 100000000
+Number of CPUs: 1
+Off-chip DRAM Size: 4 GiB Channels: 1 Width: 64-bit Data Rate: 3200 MT/s
+
+VirtualMemory physical capacity: 8588881920 num_ppages: 2096895
+VirtualMemory page size: 4096 log2_page_size: 12
+
+CPU 0 runs trace/soplex_217B.trace.xz
+CPU 0 Bimodal branch predictor
+Basic BTB sets: 1024 ways: 8 indirect buffer size: 4096 RAS size: 64
+Initialize Hawkeye state
+Heartbeat CPU 0 instructions: 10000000 cycles: 2844438 heartbeat IPC: 3.51563 cumulative IPC: 3.51563 (Simulation time: 0 hr 0 min 34 sec) 
+
+Warmup complete CPU 0 instructions: 10000004 cycles: 2844439 (Simulation time: 0 hr 0 min 34 sec) 
+
+Heartbeat CPU 0 instructions: 20000000 cycles: 34284529 heartbeat IPC: 0.318065 cumulative IPC: 0.318065 (Simulation time: 0 hr 2 min 6 sec) 
+Heartbeat CPU 0 instructions: 30000004 cycles: 64075933 heartbeat IPC: 0.335667 cumulative IPC: 0.326629 (Simulation time: 0 hr 3 min 41 sec) 
+Heartbeat CPU 0 instructions: 40000003 cycles: 95162710 heartbeat IPC: 0.32168 cumulative IPC: 0.324963 (Simulation time: 0 hr 5 min 5 sec) 
+Heartbeat CPU 0 instructions: 50000000 cycles: 123992886 heartbeat IPC: 0.346859 cumulative IPC: 0.330173 (Simulation time: 0 hr 6 min 27 sec) 
+Heartbeat CPU 0 instructions: 60000002 cycles: 154954017 heartbeat IPC: 0.322986 cumulative IPC: 0.32871 (Simulation time: 0 hr 7 min 54 sec) 
+Heartbeat CPU 0 instructions: 70000000 cycles: 199355025 heartbeat IPC: 0.22522 cumulative IPC: 0.305327 (Simulation time: 0 hr 9 min 54 sec) 
+Heartbeat CPU 0 instructions: 80000000 cycles: 231754736 heartbeat IPC: 0.308645 cumulative IPC: 0.305797 (Simulation time: 0 hr 11 min 10 sec) 
